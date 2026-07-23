@@ -20,6 +20,18 @@ A WordPress plugin designed to mass or selectively export posts and pages as raw
 *   **Permissions:** The user must have `manage_options` capabilities (typically Administrator level) to access the plugin and trigger the download.
 *   **PHP:** The web server must have the PHP `ZipArchive` extension enabled to create the `.zip` file.
 
+## Installation
+
+Since this plugin is hosted on GitHub, you can install it by downloading the release archive:
+
+1. Go to the **Releases** section on the right side of this repository's GitHub page.
+2. Download the `.zip` file for the latest version (e.g., `simple-html-exporter.zip`).
+3. Log in to your WordPress admin dashboard.
+4. Navigate to **Plugins** > **Add New Plugin**.
+5. Click the **Upload Plugin** button at the top of the screen.
+6. Select the `.zip` file you just downloaded and click **Install Now**.
+7. Once the installation is complete, click **Activate** to enable the Simple HTML Exporter.
+
 ## How to Use
 
 1.  Navigate to the **Tools** section in your WordPress admin dashboard and click on **HTML Exporter**.
