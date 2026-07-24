@@ -5,7 +5,7 @@
 
 A WordPress plugin designed to mass or selectively export posts and pages as raw HTML files inside a ZIP package.
 
-Lore: I build websites for some of my clients, but after a while some of them did not want to use WordPress. So, I would keep using my WordPress workflow locally and then run this plugin when it was time to deploy pages to their server.
+Lore: I used to actively build websites for some of my clients, but after a while some of them did not want to use WordPress. So, I would keep using my WordPress workflow locally and then run this plugin when it was time to deploy pages to their server.
 
 ![Simple HTML Exporter Admin UI](she-admin-ui-screenshot.webp)
 
