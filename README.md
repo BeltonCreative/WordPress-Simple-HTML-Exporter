@@ -5,7 +5,7 @@
 
 A WordPress plugin designed to mass or selectively export posts and pages as raw HTML files inside a ZIP package.
 
-![Simple HTML Exporter Admin UI](she-admin-ui-screenshot.png)
+![Simple HTML Exporter Admin UI](she-admin-ui-screenshot.webp)
 
 ## Features
 
